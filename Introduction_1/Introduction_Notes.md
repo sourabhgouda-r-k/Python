@@ -31,9 +31,62 @@
 
 
 
-IDE: Integrated Development Environment
-1. VS code/ visual Studio Code
----
+###### IDE: Integrated Development Environment
+
+1. ###### VS code/ visual Studio Code
 
 ###### 2\. PyCharm
+
+
+
+
+
+
+
+# Comments in code
+
+* ###### **Comments are notes in code**
+* ###### **Python skips comments**
+
+###### 
+
+###### **Why comments are useful**
+
+* ###### Understandable
+* ###### Readable
+* ###### Professional / TO explain code logic
+
+
+
+###### **Types of Comments:**
+
+
+
+1. ###### **Single-Line comment**
+
+######    Example: # This is single line comment.
+
+
+
+###### 2\. **Multi-Line comment(Multiple Lines).**
+
+######    Example: #This is line 1
+
+######             #This is line 2
+
+######             #This is line 3
+
+
+
+######    OR **Triple Quote(''' or """)**
+
+######    '''
+
+######    This is multi-line comments
+
+######    using the triple quotes.
+
+######    '''
+
+
 
