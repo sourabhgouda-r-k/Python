@@ -43,14 +43,38 @@
 
 
 
-# Comments in code
+# What is **print()?**
+
+###### print() is a built-in function used to display output on screen / terminal.
+
+###### Basic Syntax: print("Hello World")
+
+###### output: Hello World
+
+
+
+##### **Common Escape Sequences**
+
+|**Escape Sequences**|**Symbols**|**Syntax**|
+|-|-|-|
+|New Line|\\n|print("Hello\\nWorld")|
+|Tab Space|\\t|print("Hello\\tWorld")|
+|Backslash|\\\\|print("This is a backslash \\\\")|
+|Single Quote|\\'|print('It\\'s Python')|
+|Double Quote|\\"|print("He said \\"Hello\\"")|
+
+# 
+
+
+
+# **Comments in code**
 
 * ###### **Comments are notes in code**
 * ###### **Python skips comments**
 
 ###### 
 
-###### **Why comments are useful**
+#### **Why comments are useful**
 
 * ###### Understandable
 * ###### Readable
@@ -87,6 +111,4 @@
 ######    using the triple quotes.
 
 ######    '''
-
-
 
