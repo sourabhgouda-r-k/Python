@@ -52,3 +52,33 @@
 
 ###### is\_failed = False
 
+
+
+##### **None**  
+
+###### Means "no Value" it's used to show the absence of any data.
+
+H = None
+
+---
+
+### What is **type()**?
+
+###### **type()** is used to **check the data type of a variable** or value
+
+###### 
+
+###### syntax: type(variable)
+
+###### 
+
+###### Example:
+
+###### x = 10
+
+###### print(type(x))
+
+
+
+
+

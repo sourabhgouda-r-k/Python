@@ -22,6 +22,10 @@ is_passed = True
 is_failed = False
 print(is_failed, is_passed)
 
+print("\nNone")
+H = None
+print(H)
+
 
 name = "Sourabh"  # string
 age = 21  # int
@@ -29,3 +33,9 @@ marks = 85.5  # float
 passed = True  # boolean
 
 print("\n", name, age, marks, passed)
+
+print("\n Type Function")
+print(type(name))
+print(type(age))
+print(type(marks))
+print(type(passed))
