@@ -12,8 +12,10 @@ Write a program that:
 **Example Output:**
 
 
+
 Enter your name: Sourabh
 Hello Sourabh
+
 
 
 
@@ -42,9 +44,11 @@ Write a program that:
 **Example Output:**
 
 
+
 Enter first number: 10
 Enter second number: 20
 Sum = 30
+
 
 
 
@@ -60,8 +64,10 @@ Write a program that:
 **Example Output:**
 
 
+
 Enter price: 99.99
 Final Price: 99.99
+
 
 
 
@@ -81,8 +87,10 @@ Write a program that:
 **Example:**
 
 
+
 Input: 10 and 20  
 Output: 1020
+
 
 
 
@@ -99,10 +107,8 @@ Write a program that:
 **Example Output:**
 
 
+
 Name: Sourabh
 Age: 21
 Height: 5.8
-
-
-
 
