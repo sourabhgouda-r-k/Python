@@ -54,13 +54,13 @@
 
 
 
-##### **None**  
+##### **None**
 
 ###### Means "no Value" it's used to show the absence of any data.
 
 H = None
 
----
+\---
 
 ### What is **type()**?
 
@@ -77,8 +77,4 @@ H = None
 ###### x = 10
 
 ###### print(type(x))
-
-
-
-
 
