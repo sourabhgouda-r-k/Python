@@ -68,4 +68,12 @@ print(name.startswith("sou"))
 print(city.endswith("wad"))
 
 # find()
-print(name.find("s"))  # works same as
+print(name.find("o"))  # Gives the position/ Index of character.
+
+# in
+print("a" in name)  # checks weather character is present or not.
+
+
+# isalpha and isnumeric
+print(name.isalpha())  # check's weather all are character
+print(name.isnumeric())  # check's weather all are numbers

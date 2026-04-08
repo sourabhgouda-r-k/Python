@@ -161,9 +161,10 @@ python
 
 text = "hello world" 
 
-print(text.count("l")
+print(text.count("l"))
 
 
+Go through the Practice Questions and String file for more string functions 
 
 
 
