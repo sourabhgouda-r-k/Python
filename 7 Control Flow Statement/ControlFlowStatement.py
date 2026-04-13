@@ -19,3 +19,25 @@ elif marks > 80:
     print("Good")
 else:
     print("Below 80 is average")
+
+
+# nested if
+citizen = True
+if age > 18:
+    if citizen:
+        print("Vote is done")
+
+
+# Loops
+# for Loops
+for i in (1, 2, 3):
+    print(i)
+
+for i in range(10):
+    print(i)
+
+for i in range(1, 10):
+    print(i)
+
+for i in range(1, 10, 2):
+    print(i)
