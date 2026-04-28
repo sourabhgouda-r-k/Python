@@ -1,4 +1,8 @@
-# What is **Python**?
+# &#x20;                        **Python Programming Notes**
+
+
+
+### What is **Python**?
 
 ###### **Python is High level, Interpreted programming language.**
 
@@ -13,11 +17,11 @@
 
 ######  Think a python as "English like programming language".
 
+###### 
 
+###### 
 
-
-
-###### First "Python" Program:
+###### First "**Python**" Program:
 
 ###### Problem Statement: Print the Message "Hello World".
 
@@ -27,9 +31,9 @@
 
 ###### print("Hello world");
 
+###### 
 
-
-
+###### 
 
 ###### IDE: Integrated Development Environment
 
@@ -43,7 +47,7 @@
 
 
 
-# What is **print()?**
+### What is **print()?**
 
 ###### print() is a built-in function used to display output on screen / terminal.
 
@@ -53,13 +57,15 @@
 
 
 
-##### **Common Escape Sequences**
+
+
+#### **Common Escape Sequences**
 
 |**Escape Sequences**|**Symbols**|**Syntax**|
 |-|-|-|
 |New Line|\\n|print("Hello\\nWorld")|
 |Tab Space|\\t|print("Hello\\tWorld")|
-|Backslash|\\\\|print("This is a backslash \\\\")|
+|Backslash|\\\\       |print("This is a backslash \\\\")|
 |Single Quote|\\'|print('It\\'s Python')|
 |Double Quote|\\"|print("He said \\"Hello\\"")|
 
@@ -67,7 +73,9 @@
 
 
 
-# **Comments in code**
+
+
+### **Comments in code**
 
 * ###### **Comments are notes in code**
 * ###### **Python skips comments**
@@ -80,9 +88,9 @@
 * ###### Readable
 * ###### Professional / TO explain code logic
 
+##### 
 
-
-###### **Types of Comments:**
+##### **Types of Comments:**
 
 
 
@@ -90,7 +98,7 @@
 
 ######    Example: # This is single line comment.
 
-
+###### 
 
 ###### 2\. **Multi-Line comment(Multiple Lines).**
 
@@ -100,7 +108,7 @@
 
 ######             #This is line 3
 
-
+###### 
 
 ######    OR **Triple Quote(''' or """)**
 
@@ -111,4 +119,6 @@
 ######    using the triple quotes.
 
 ######    '''
+
+
 

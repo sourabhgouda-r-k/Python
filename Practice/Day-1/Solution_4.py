@@ -1,0 +1,5 @@
+print("Enter the 3 Numbers to find Average:")
+num1 = int(input("Enter number 1: "))
+num2 = int(input("Enter number 2: "))
+num3 = int(input("Enter number 3: "))
+print(f"Avg: {(num1+num2+num3) / 3}")

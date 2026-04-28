@@ -1,4 +1,6 @@
-# **INTRODUCTION TO PYTHON - PRACTICE EXERCISES**
+# &#x20;                       **Python Practice Exercises**
+
+## &#x20;                           **INTRODUCTION TO PYTHON** 
 
 ###### 
 
@@ -6,9 +8,7 @@
 
 ###### 
 
-###### **1. Print Your Name**
-
-###### Write a program that prints your name on the screen.
+###### **1. Print Your Name**: Write a program that prints your name on the screen.
 
 
 
@@ -20,9 +20,7 @@
 
 
 
-###### **2. Print Multiple Lines**
-
-###### Write a program that prints the following:
+###### **2. Print Multiple Lines**: Write a program that prints the following:
 
 ###### Python
 
@@ -44,9 +42,7 @@
 
 
 
-###### **3. Print with Numbers**
-
-###### Write a program that prints:
+###### **3. Print with Numbers**: Write a program that prints:
 
 ###### I am learning Python
 
